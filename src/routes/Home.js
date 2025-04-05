@@ -16,7 +16,7 @@ function Home() {
       buttonText="Travel Plan"
       url="/"
       buttonText="Travel Plan"
-        url="/"
+        
         btnClass="show"
     
     />
